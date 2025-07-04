@@ -1,4 +1,4 @@
-# This is a place for Cataclysm Classic and MOP Classic bug reports and research
+# This is a place for MOP Classic bug reports and research
 Feel free to open up issues for bug reports using the right format, provide as much detail as you can
 
 ### 1. Current Behavior
